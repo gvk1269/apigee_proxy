@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="apigee_proxy">
+    <Basepaths>/apigee_proxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1681928200290</CreatedAt>
+    <CreatedBy>venkatg.eci@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>apigee_proxy</DisplayName>
+    <LastModifiedAt>1681928200290</LastModifiedAt>
+    <LastModifiedBy>venkatg.eci@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:a2a680f15126f12fdea3c79ec32a23e3a750399a1e020c740a4db43795e04e623b7adeafdf250253bd33db1edc177745aa42602c91a9e2ab476b2d8c7ada00b9</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
